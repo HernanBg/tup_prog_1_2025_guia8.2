@@ -1,0 +1,14 @@
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\bin\Debug\net8.0\Guia 8.2 Ejercicio 1.exe
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\bin\Debug\net8.0\Guia 8.2 Ejercicio 1.deps.json
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\bin\Debug\net8.0\Guia 8.2 Ejercicio 1.runtimeconfig.json
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\bin\Debug\net8.0\Guia 8.2 Ejercicio 1.dll
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\bin\Debug\net8.0\Guia 8.2 Ejercicio 1.pdb
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.AssemblyInfo.cs
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.dll
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\refint\Guia 8.2 Ejercicio 1.dll
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.pdb
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\Guia 8.2 Ejercicio 1.genruntimeconfig.cache
+C:\Users\Herna\source\repos\Guia 8.2 Ejercicio 1\Guia 8.2 Ejercicio 1\obj\Debug\net8.0\ref\Guia 8.2 Ejercicio 1.dll
